@@ -17,3 +17,6 @@ flutter:
     androidPackage: com.github.adee42.keyboardvisibility
     iosPrefix: FLT
     pluginClass: KeyboardVisibilityPlugin
+
+module:
+  androidX: true
